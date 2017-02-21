@@ -13,6 +13,6 @@ public interface ProgrammingLanguageService {
 
 	List<ProgrammingLanguageEntity> getProgrammingLanguages();
 	
-	void saveProgrammingLanguage(ProgrammingLanguageEntity developper);
+	void saveProgrammingLanguage(ProgrammingLanguageEntity programme);
 	
 }
